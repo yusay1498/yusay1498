@@ -8,4 +8,4 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yusay1498&theme=gruvbox&utcOffset=9)
 
 ## Trophy
-![trophy](https://github-profile-trophy.vercel.app/?username=yusay1498&theme=gruvbox)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yusay1498&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
