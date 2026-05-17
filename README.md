@@ -1,3 +1,6 @@
+## 🌐 Portfolio & Blog
+[![My Pages](https://img.shields.io/badge/Portfolio%20%26%20Blog-yusay1498.github.io%2Fmy--pages-blue?style=for-the-badge)](https://yusay1498.github.io/my-pages/)
+
 ## Stats
 ![](https://raw.githubusercontent.com/yusay1498/yusay1498/output/github-contribution-grid-snake.svg)
 
